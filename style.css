@@ -13,7 +13,7 @@ body{
 	padding: 20px;
 }
 #calculator{
-	width: 433px;
+	width: 350px;
 	height: 520px;
 	background: #ffffff;
 	margin: auto;
@@ -52,12 +52,12 @@ body{
 	margin: 15px;
 	float: left;
 	border-radius: 50%;
-	border-width: 0;
+	border-width: 50;
 	font-weight: bold;
 	font-size: 15px;
 }
 .number, .empty{
-	background-color: #eaedef;
+	background-color: #ffffff;
 }
 .number, .operator{
 	cursor: pointer;
