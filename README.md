@@ -9,6 +9,6 @@ Basic Calculator Webapp using JS.
 - JavaScript
 
 ### Usage
-- Clone the repo and run index.html or Calculator_web(https://jordandivyansh.github.io/calculator/)
+- Clone the repo and run index.html or [Calculator_web](https://jordandivyansh.github.io/calculator/)
 
 #### [Divyansh Kumar](https://jordandivyansh.github.io/divyanshkumar)
